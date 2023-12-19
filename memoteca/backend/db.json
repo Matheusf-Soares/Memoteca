@@ -1,11 +1,5 @@
 {
-  "pensamentos":[
-    {
-      "id": 1,
-      "conteudo": "Que bom que você veio.",
-      "autoria": "Matheus",
-      "modelo": "modelo1"
-    },
+  "pensamentos": [
     {
       "id": 2,
       "conteudo": "Pensamento Teste",
@@ -13,10 +7,22 @@
       "modelo": "modelo2"
     },
     {
-      "id": 3,
-      "conteudo": "Testando Angular",
-      "autoria": "Matheus 3",
-      "modelo": "modelo3"
+      "conteudo": "Teste do pensamento novo",
+      "autoria": "vamo ver se funciona",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "Teste do pensamento velho",
+      "autoria": "vamo ver se não funciona",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "Deu certo",
+      "autoria": "Matheus",
+      "modelo": "modelo1",
+      "id": 6
     }
   ]
 }
