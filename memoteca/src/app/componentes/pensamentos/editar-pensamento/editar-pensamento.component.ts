@@ -10,7 +10,7 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
   styleUrls: ['./editar-pensamento.component.css'],
 })
 export class EditarPensamentoComponent implements OnInit {
-  
+
   formulario!: FormGroup;
 
   constructor(
@@ -36,6 +36,7 @@ export class EditarPensamentoComponent implements OnInit {
             ]),
         ],
         modelo: [pensamento.modelo],
+        favorito: [pensamento.favorito]
       });
     });
   }
