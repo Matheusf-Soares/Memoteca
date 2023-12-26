@@ -4,7 +4,7 @@
       "conteudo": "Aprendendo Angular",
       "autoria": "Dev",
       "modelo": "modelo1",
-      "favorito": true,
+      "favorito": false,
       "id": 1
     },
     {
@@ -12,7 +12,7 @@
       "conteudo": "Orquestra",
       "autoria": "Matheus Soares",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Formulário reativo",
@@ -32,21 +32,21 @@
       "conteudo": "Pensamento 1",
       "autoria": "teste",
       "modelo": "modelo1",
-      "favorito": true,
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "Pensamento 2",
       "autoria": "teste",
       "modelo": "modelo1",
-      "favorito": true,
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "Pensamento 3 ",
       "autoria": "teste",
       "modelo": "modelo1",
-      "favorito": true,
+      "favorito": false,
       "id": 7
     }
   ]
